@@ -7,9 +7,9 @@ Ref: https://repositorio.uci.cu/bitstream/123456789/10172/1/Practical%20Machine%
 
 <h2>Índice</h2>
 
-<ul>
+<ol>
   1.Estrutura e Bibliotecas
   2.
   3.
   4.
-</ul>
+</ol>
